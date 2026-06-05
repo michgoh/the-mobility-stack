@@ -1,0 +1,21 @@
+Employee ID,Employee Name,From City,From Country,To City,To Country,Visa Type,Visa Expiry,Assignment Start Date,Assignment End Date,Policy,To Salary,From Salary
+EMP001,James Okafor,Lagos,Nigeria,London,United Kingdom,Skilled Worker Visa,2027-06-30,2025-01-15,2027-01-14,Long-Term Assignment,$95000,$72000
+EMP002,Priya Mehta,Bangalore,India,San Francisco,United States,H-1B,2027-10-01,2025-03-01,2028-02-28,Permanent Transfer,$145000,$68000
+EMP003,Carlos Rivera,Mexico City,Mexico,New York,United States,L-1A,2026-12-31,2024-06-01,2026-05-31,Short-Term Assignment,$110000,$85000
+EMP004,Aisha Nkosi,Johannesburg,South Africa,Amsterdam,Netherlands,Highly Skilled Migrant,2027-03-15,2025-03-15,2027-03-14,Long-Term Assignment,$98000,$61000
+EMP005,Lena Hoffmann,Berlin,Germany,Singapore,Singapore,Employment Pass,2026-09-30,2024-10-01,2026-09-30,Permanent Transfer,$120000,$95000
+EMP006,Wei Zhang,Shanghai,China,Toronto,Canada,Intra-Company Transfer,2027-01-31,2025-02-01,2027-01-31,Long-Term Assignment,$102000,$78000
+EMP007,Sofia Andersen,Copenhagen,Denmark,Dubai,United Arab Emirates,Employment Visa,2026-06-30,2024-07-01,2026-06-30,Short-Term Assignment,$130000,$105000
+EMP008,Marcus Thompson,Chicago,United States,London,United Kingdom,Intra-Company Transfer,2027-08-31,2025-09-01,2027-08-31,Long-Term Assignment,$118000,$98000
+EMP009,Fatima Al-Hassan,Riyadh,Saudi Arabia,Paris,France,Talent Passport,2027-05-31,2025-06-01,2027-05-31,Permanent Transfer,$108000,$74000
+EMP010,Raj Patel,Mumbai,India,Sydney,Australia,Employer Sponsored Visa,2026-11-30,2024-12-01,2026-11-30,Long-Term Assignment,$99000,$65000
+EMP011,Elena Petrov,Moscow,Russia,Warsaw,Poland,Work Permit,2026-04-30,2024-05-01,2026-04-30,Short-Term Assignment,$82000,$58000
+EMP012,David Kim,Seoul,South Korea,Tokyo,Japan,Work Visa,2027-02-28,2025-03-01,2027-02-28,Long-Term Assignment,$112000,$88000
+EMP013,Amara Diallo,Dakar,Senegal,Brussels,Belgium,Single Permit,2026-08-31,2024-09-01,2026-08-31,Permanent Transfer,$90000,$55000
+EMP014,Hannah Schmidt,Munich,Germany,New York,United States,O-1,2027-07-31,2025-08-01,2027-07-31,Long-Term Assignment,$135000,$110000
+EMP015,Omar Khalil,Cairo,Egypt,Stockholm,Sweden,Work Permit,2026-10-31,2024-11-01,2026-10-31,Short-Term Assignment,$88000,$60000
+EMP016,Yuki Tanaka,Tokyo,Japan,San Francisco,United States,H-1B,2027-09-30,2025-10-01,2028-09-30,Permanent Transfer,$148000,$92000
+EMP017,Isabelle Dupont,Paris,France,Singapore,Singapore,Employment Pass,2027-04-30,2025-05-01,2027-04-30,Long-Term Assignment,$115000,$98000
+EMP018,Kwame Asante,Accra,Ghana,London,United Kingdom,Skilled Worker Visa,2026-07-31,2024-08-01,2026-07-31,Short-Term Assignment,$86000,$52000
+EMP019,Nina Kowalski,Warsaw,Poland,Dublin,Ireland,EU Freedom of Movement,2027-12-31,2025-01-01,2027-12-31,Permanent Transfer,$94000,$68000
+EMP020,Arjun Sharma,Delhi,India,Houston,United States,L-1B,2026-03-31,2024-04-01,2026-03-31,Long-Term Assignment,$105000,$71000
